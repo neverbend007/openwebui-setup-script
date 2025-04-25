@@ -1,5 +1,4 @@
-# 🚀 AI Stack Deployment
-
+# 🚀 OpenWebUI & LiteLLM Installation
 A one-script solution to deploy your personal AI infrastructure with local LLMs, proxy management, and web UI.
 
 ## ✨ What Does This Script Do?
